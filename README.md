@@ -1,4 +1,4 @@
-# DSA Mentorship by Istasis**
+# DSA Mentorship by Istasis
 _Learn DSA Once and For All — With Guidance That Sticks_
 
 ---
