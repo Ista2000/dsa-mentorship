@@ -1,6 +1,8 @@
 # DSA Mentorship by Istasis
 _Learn DSA Once and For All — With Guidance That Sticks_
 
+[Apply Now](https://forms.gle/UQW2kRNtiuZfq7sQ7)
+
 ---
 
 ### 🏷️ Who This Is For
@@ -50,6 +52,7 @@ There are no pre-recorded videos. No endless dashboards. Just **live teaching, r
 | 2    | Segment Trees, Tries, Disjoint Set Unions                                   |
 | 3    | Trees, Graphs, BFS/DFS, Shortest Paths                                      |
 | 4    | Recursion, Dynamic Programming                                              |
+
 No memorization. No copy-paste templates. Just first-principles understanding and consistent practice.
 
 ---
@@ -76,16 +79,10 @@ No memorization. No copy-paste templates. Just first-principles understanding an
 
 ---
 
-### 💬 What Others Say
-> [Insert screenshots here]
-
----
-
 ### ✨ How This Is Different
 
-|                                             |                                             |
+| What You Get Here                           | What Most Courses Offer                     |
 | ------------------------------------------- | ------------------------------------------- |
-| **What You Get Here**                       | **What Most Courses Offer**                 |
 | Direct mentorship from a hiring engineer    | Pre-recorded videos from content creators   |
 | Small batch + personal check-ins            | Massive batches with no personal attention  |
 | First-principles problem solving            | Pattern memorization and brute-force grind  |
@@ -100,8 +97,7 @@ No memorization. No copy-paste templates. Just first-principles understanding an
 - **Fee**: ₹7,999 (for the full 4-week experience)
 - **Application**: Takes 2–3 minutes to fill
 
-[Apply Now] (Insert Tally/Google Form Link)  
-[Ask a Question] (Insert Discord or contact link)
+[Apply Now](https://forms.gle/UQW2kRNtiuZfq7sQ7)
 
 ---
 
@@ -136,3 +132,5 @@ This isn’t about finishing a checklist. It’s about learning in a way that fi
 If that sounds like what you need, I’d love to have you inside.
 
 Let’s learn this properly, together.
+
+[Apply Now](https://forms.gle/UQW2kRNtiuZfq7sQ7)
