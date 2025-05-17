@@ -1,7 +1,7 @@
 # DSA Mentorship by Istasis
 _Learn DSA Once and For All — With Guidance That Sticks_
 
-[<kbd> <br> Apply now <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
+[<kbd> <br> <b> Apply now </b> <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
 
 ---
 
@@ -117,7 +117,7 @@ _"The way you teach makes each and every topic so much easier to understand. You
 - **Fee**: ₹7,999 (for the full 4-week experience)
 - **Application**: Takes 2–3 minutes to fill
 
-[<kbd> <br> Apply now <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
+[<kbd> <br> <b> Apply now </b> <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
 
 ---
 
@@ -153,4 +153,4 @@ If that sounds like what you need, I’d love to have you inside.
 
 Let’s learn this properly, together.
 
-[<kbd> <br> Apply now <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
+[<kbd> <br> <b> Apply now </b> <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
