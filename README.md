@@ -1,10 +1,3 @@
-# DSA Mentorship by Istasis
-_Learn DSA Once and For All — With Guidance That Sticks_
-
-[<kbd> <br> <b> Apply now </b> <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
-
----
-
 ### Table of contents
 - [🏷️ Who This Is For](#%EF%B8%8F-who-this-is-for)
 - [👨‍🏫 Who am I?](#-who-am-i)
