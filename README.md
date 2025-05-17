@@ -46,6 +46,7 @@ There are no pre-recorded videos. No endless dashboards. Just **live teaching, r
 ---
 
 ### 📄 What We’ll Cover
+
 | Week | Topics                                                                      |
 | ---- | --------------------------------------------------------------------------- |
 | 1    | Arrays, Strings, Hashmaps, Sliding Window, Binary Search, Greedy Algorithms |
