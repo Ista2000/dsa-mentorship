@@ -6,7 +6,18 @@ _Learn DSA Once and For All — With Guidance That Sticks_
 ---
 
 ### Table of contents
-- [Final Note](#%EF%B8%8F-final-note)
+- [🏷️ Who This Is For](#%EF%B8%8F-who-this-is-for)
+- [👨‍🏫 Who am I?](#-who-am-i)
+- [💡 What This Is (and Isn’t)](#-what-this-is-and-isnt)
+- [📅 Format & Flow](#-format--flow)
+- [📄 What We’ll Cover](#-what-well-cover)
+- [🎁 What You’ll Get](#-what-youll-get)
+- [✨ How This Is Different](#-how-this-is-different)
+- [💬 What Past Students Have To Say](#-what-past-students-have-to-say)
+- [📣 Apply Now](#-apply-now)
+- [❓ FAQ](#-apply-now)
+- [✉️ Contact me](#%EF%B8%8F-contact-me)
+- [❤️ Final Note](#%EF%B8%8F-final-note)
 
 ---
 
@@ -17,6 +28,8 @@ This is for engineers who:
 - Keep restarting DSA but never feel confident
 - Don’t want to brute-force 300 LeetCode problems
 - Want real structure, someone to talk to, and personal feedback
+
+[Go to top](#dsa-mentorship-by-istasis)
 
 ---
 
@@ -36,6 +49,8 @@ You can learn a bit more about my journey [in this interview with Coding Ninjas]
 
 Also, feel free to check out some of my [free sessions on YouTube](https://youtube.com/playlist?list=PLnLzvuRT69I_rEdZcVUMFkn01u9qIz1UM&si=_HlkKue9FVtz8q6w) — I hope they help!
 
+[Go to top](#dsa-mentorship-by-istasis)
+
 ---
 
 ### 💡 What This Is (and Isn’t)
@@ -43,6 +58,8 @@ Also, feel free to check out some of my [free sessions on YouTube](https://youtu
 This is a **small group mentorship experience**, not a mass-market bootcamp. I’ll know every student personally. I’ll track your progress, check in, and work with you on what _you_ need.
 
 There are no pre-recorded videos. No endless dashboards. Just **live teaching, real conversations, and structured learning**.
+
+[Go to top](#dsa-mentorship-by-istasis)
 
 ---
 
@@ -53,6 +70,8 @@ There are no pre-recorded videos. No endless dashboards. Just **live teaching, r
 - **Community**: Private Discord for ongoing questions, peer support, and weekly challenges
 - **Office Hours**: 1:1s available to discuss anything you're stuck on
 - **Access**: Session notes and recordings available
+
+[Go to top](#dsa-mentorship-by-istasis)
 
 ---
 
@@ -67,11 +86,14 @@ There are no pre-recorded videos. No endless dashboards. Just **live teaching, r
 
 No memorization. No copy-paste templates. Just first-principles understanding and consistent practice.
 
+[Go to top](#dsa-mentorship-by-istasis)
+
 ---
 
 ### 🎁 What You’ll Get
 
 **Supportive, personal, and progress-focused.**
+
 #### 🧭 Structured Learning
 - 8 live sessions (of 90 minutes) with clear, progressive concepts
 - Weekly curated problem sets
@@ -89,6 +111,8 @@ No memorization. No copy-paste templates. Just first-principles understanding an
 - Mock interviews for top performers
 - Notes & recordings for revision
 
+[Go to top](#dsa-mentorship-by-istasis)
+
 ---
 
 ### ✨ How This Is Different
@@ -100,6 +124,8 @@ No memorization. No copy-paste templates. Just first-principles understanding an
 | First-principles problem solving            | Pattern memorization and brute-force grind  |
 | Honest, 1:1 feedback                        | Generic comments or auto-graded reports     |
 | Codeforces-based live challenge leaderboard | Internal tools with no external recognition |
+
+[Go to top](#dsa-mentorship-by-istasis)
 
 ---
 
@@ -114,6 +140,8 @@ _"The way you teach makes each and every topic so much easier to understand. You
 -- Praveenkumar GOUDAR
 
 
+[Go to top](#dsa-mentorship-by-istasis)
+
 ---
 
 ### 📣 Apply Now
@@ -123,6 +151,8 @@ _"The way you teach makes each and every topic so much easier to understand. You
 - **Application**: Takes 2–3 minutes to fill
 
 [<kbd> <br> <b> Apply now </b> <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
+
+[Go to top](#dsa-mentorship-by-istasis)
 
 ---
 
@@ -146,6 +176,18 @@ Zoom for sessions, Discord for community, Codeforces for challenges, and Notion/
 **How many students per batch?**  
 I will take single digit number of students per batch to ensure everyone gets enough attention.
 
+[Go to top](#dsa-mentorship-by-istasis)
+
+---
+
+### ✉️ Contact me
+
+For any queries or doubts, get in touch with me on my
+- [Personal email (mishra.istasis@gmail.com)](mailto:mishra.istasis@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/istasis-mishra/)
+
+[Go to top](#dsa-mentorship-by-istasis)
+
 ---
 
 ### ❤️ Final Note
@@ -159,3 +201,5 @@ If that sounds like what you need, I’d love to have you inside.
 Let’s learn this properly, together.
 
 [<kbd> <br> <b> Apply now </b> <br> </kbd>](https://forms.gle/UQW2kRNtiuZfq7sQ7)
+
+[Go to top](#dsa-mentorship-by-istasis)
