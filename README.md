@@ -5,6 +5,11 @@ _Learn DSA Once and For All — With Guidance That Sticks_
 
 ---
 
+### Table of contents
+- [Final Note](#%EF%B8%8F-final-note)
+
+---
+
 ### 🏷️ Who This Is For
 
 This is for engineers who:
