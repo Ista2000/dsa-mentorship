@@ -15,15 +15,13 @@ This is for engineers who:
 
 ---
 
-### 👨‍🏫 A Note From Me
+### 👨‍🏫 Who am I?
 
-Hi, I’m Istasis Mishra. I’ve been lucky to have had some early exposure to competitive programming — I represented India at IOI 2018 during school and spent a lot of time exploring problem-solving on platforms like CodeChef and Codeforces. Over the years, I’ve also conducted DSA interviews as part of my role at Rubrik.
+Hi, I’m Istasis Mishra. I was fortunate to be part of the Indian team at IOI 2018, and during school I reached 6⭐ on CodeChef and Candidate Master on Codeforces. Later on, I joined Rubrik as a Software Engineer in 2023 and have now conducted over 20 DSA interviews as part of the hiring process.
 
-I spent a year teaching at Unacademy, and one of the most fulfilling parts of my journey has been helping friends and peers navigate ICPC, Olympiads, and tech interviews.
+A few years ago, I spent a year teaching at Unacademy, and have also helped peers prepare for ICPC and Olympiads — some of whom went on to great engineering colleges.
 
-This isn’t a company, a startup, or a pre-recorded course. It’s just me, offering mentorship the way I would’ve wanted it — clear, honest, and personal.
-
-If you’ve ever felt stuck or overwhelmed while trying to learn DSA, I made this for you.
+This bootcamp is simply my way of bringing together everything I’ve learned — a space to go deep into DSA, with a focus on first principles over memorization. No grind. No fluff. Just honest understanding.
 
 ---
 
