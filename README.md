@@ -17,11 +17,19 @@ This is for engineers who:
 
 ### 👨‍🏫 Who am I?
 
-Hi, I’m Istasis Mishra. I was fortunate to be part of the Indian team at IOI 2018, and during school I reached 6⭐ on CodeChef and Candidate Master on Codeforces. Later on, I joined Rubrik as a Software Engineer in 2023 and have now conducted over 20 DSA interviews as part of the hiring process.
+Hi, I’m Istasis Mishra.
 
-A few years ago, I spent a year teaching at Unacademy, and have also helped peers prepare for ICPC and Olympiads — some of whom went on to great engineering colleges.
+Back in school, I was fortunate to represent India at the **International Olympiad in Informatics (IOI) 2018**. During that time, I also reached [6⭐ on CodeChef](https://www.codechef.com/users/ista2000) and [Candidate Master on Codeforces](https://codeforces.com/profile/ista2000), which gave me a strong foundation in algorithmic problem solving.
 
-This bootcamp is simply my way of bringing together everything I’ve learned — a space to go deep into DSA, with a focus on first principles over memorization. No grind. No fluff. Just honest understanding.
+I went on to pursue a **dual degree (B.Tech + M.S.) in Computer Science by Research** at the **International Institute of Information Technology (IIIT) Hyderabad**, and in 2023, I joined **Rubrik** as a Software Engineer, where I’ve since conducted 20+ DSA interviews as part of the hiring process.
+
+A few years ago, I also spent a year [teaching at Unacademy](https://unacademy.com/@ista2000/batches), and over time, I’ve had the opportunity to mentor peers preparing for ICPC and Olympiads — many of whom have gone on to excel at top engineering colleges.
+
+This mentorship is my way of bringing it all together — a place to share what I’ve learned, and to teach DSA the way I believe it should be taught: through clarity, first principles, and honest, structured practice. No grind. No fluff. Just deep understanding.
+
+You can learn a bit more about my journey [in this interview with Coding Ninjas](https://www.youtube.com/watch?v=5f1eZ8Dfh_M) (_Pardon me, this is a very old interview 😅_).
+
+Also, feel free to check out some of my [free sessions on YouTube](https://youtube.com/playlist?list=PLnLzvuRT69I_rEdZcVUMFkn01u9qIz1UM&si=_HlkKue9FVtz8q6w) — I hope they help!
 
 ---
 
@@ -90,6 +98,19 @@ No memorization. No copy-paste templates. Just first-principles understanding an
 
 ---
 
+### 💬 What Past Students Have To Say
+
+This is what past attendees of my Unacademy sessions have said
+
+_"Thank you for giving us the best learning experience!😇💯 There's a lot of scope in your class to think over a problem and discuss the ideas, which helps us improve our PS skills to a great extent!"_
+-- Prathyusha Pecchi
+
+_"The way you teach makes each and every topic so much easier to understand. You are making concepts like cake walk.. After learning from you I'm very much confident in the concepts. Thank you sir 🙏"_
+-- Praveenkumar GOUDAR
+
+
+---
+
 ### 📣 Apply Now
 
 - **Spots**: Very limited, selected manually
@@ -109,16 +130,16 @@ You’ll have access to recordings for all sessions — so you can revisit anyti
 Basic programming familiarity is good enough. I’ll teach everything else from the ground up.
 
 **Will I get placement support?**  
-There’s no formal placement support, but I try my best to help with interview prep, mock interviews, and offer personal guidance post-bootcamp if needed.
+There’s no formal placement support, but I shall try my best to help with interview prep, mock interviews, and offer personal guidance post-bootcamp based on need and availability.
 
 **What if I’m not selected after applying?**  
-You can join the waitlist. I open new batches based on demand and capacity.
+You can join the waitlist. I will open new batches based on demand and capacity.
 
 **What tools will we use?**  
 Zoom for sessions, Discord for community, Codeforces for challenges, and Notion/Docs for notes.
 
 **How many students per batch?**  
-I usually take single digit number of students per batch to ensure everyone gets enough attention.
+I will take single digit number of students per batch to ensure everyone gets enough attention.
 
 ---
 
